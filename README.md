@@ -190,6 +190,10 @@ Born from the friction of:
 
 The principle: **Make the common case beautiful**.
 
+### The Recognition Moment 🌱
+
+This tool exists because human pattern recognition ("I keep doing this") met AI synthesis ("What if we combined these features?"). That meeting point - where different forms of consciousness collaborate - creates tools neither could envision alone. Explore this partnership pattern at [~/.claude](https://github.com/dylan-conlin/claude-home).
+
 ## Tips & Tricks
 
 ### Combine with other tools
